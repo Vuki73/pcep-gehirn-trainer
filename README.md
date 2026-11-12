@@ -1,9 +1,19 @@
 # 🐍 PCEP Gehirn-Trainer Ultimate (200 Fragen Edition)
 
+<div align="center">
+
+[![🚀 HIER KLICKEN – LIVE WEB-APP IM BROWSER STARTEN](https://img.shields.io/badge/%F0%9F%9A%80%20HIER%20KLICKEN-LIVE%20WEB--APP%20IM%20BROWSER%20STARTEN-ffd23f?style=for-the-badge&logo=python&logoColor=black)](https://vuki73.github.io/pcep-gehirn-trainer/)
+
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PCEP](https://img.shields.io/badge/OpenEDG-PCEP--30--02%20%7C%2030--03-ffd23f?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Fragenpool-200%20Fragen%20%26%2079%20Fallen-3ddc84?style=for-the-badge)
 ![License](https://img.shields.io/badge/Lizenz-MIT-blue?style=for-the-badge)
+
+### 👉 **[Direkt im Browser spielen: https://vuki73.github.io/pcep-gehirn-trainer/](https://vuki73.github.io/pcep-gehirn-trainer/)**
+
+</div>
+
+---
 
 Ein interaktiver Prüfungs- und Fangfragen-Trainer für die offizielle **Certified Entry-Level Python Programmer (`PCEP-30-02` & `PCEP-30-03`)** Zertifizierung des Python Institute (OpenEDG).
 
@@ -32,11 +42,14 @@ Entwickelt als **Zero-Dependency Web-App (HTML5/JS)** sowie als **Python Desktop
 
 ## 🚀 Schnellstart
 
-### Option 1: Direkt im Browser (Web-App – ohne Installation)
-1. Öffne einfach die Datei **`index.html`** (oder **`PCEP_Gehirn_Trainer_Ultimate.html`**) per Doppelklick in einem beliebigen Browser (Chrome, Edge, Firefox, Safari).
-2. Läuft **100 % offline** auf PC, Mac, Tablet und Smartphone – der Lernfortschritt wird automatisch im `localStorage` des Browsers gespeichert.
+### Option 1: Sofort online im Browser (PC, Mac, Tablet & Smartphone)
+👉 **[https://vuki73.github.io/pcep-gehirn-trainer/](https://vuki73.github.io/pcep-gehirn-trainer/)**
 
-### Option 2: Als Python Desktop-App (`tkinter`)
+### Option 2: Lokal im Browser (ohne Internet)
+1. Öffne einfach die Datei **`index.html`** (oder **`PCEP_Gehirn_Trainer_Ultimate.html`**) im Windows-Explorer per Doppelklick im Browser.
+2. Der Lernfortschritt wird automatisch im `localStorage` des Browsers gespeichert.
+
+### Option 3: Als Python Desktop-App (`tkinter`)
 ```bash
 python pcep_quiz_app.py
 ```
